@@ -1,0 +1,9 @@
+{
+  "name": "variable-name",
+  "version": "1.0.0",
+  "description": "Just a test to see what variable name gets converted to.",
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "tslint": "^6.1.3"
+  }
+}
